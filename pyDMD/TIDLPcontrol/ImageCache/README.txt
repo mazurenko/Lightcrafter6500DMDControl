@@ -1,0 +1,1 @@
+Images generated and saved for later are stored in the image cache.

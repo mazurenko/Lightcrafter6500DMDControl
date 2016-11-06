@@ -1,0 +1,3 @@
+LIBRARY dither_c.pyd
+EXPORTS
+initdither_c
